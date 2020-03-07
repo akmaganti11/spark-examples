@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.spark.example</groupId>
-	<artifactId>sparktest</artifactId>
+	<artifactId>spark-examples</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<name>POC-1</name>
 	<description>Demo project for Spring Boot</description>
